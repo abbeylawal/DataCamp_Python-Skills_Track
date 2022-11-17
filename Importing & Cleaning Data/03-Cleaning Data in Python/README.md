@@ -15,10 +15,10 @@ It's commonly said that data scientists spend 80% of their time cleaning and man
 
 [Ride sharing dataset] </br>
 [Airlines Dataset]</br>
-[Banking Dataset]<.br>
+[Banking Dataset]</br>
 [Restaurants Dataset] </br>
 [Restaurants Dataset II] </br>
-[dataset link]("Dataset/")
+
 ## Prerequisites
 - Python Data Science Toolbox (part 2)
 - Joining Data with Pandas
