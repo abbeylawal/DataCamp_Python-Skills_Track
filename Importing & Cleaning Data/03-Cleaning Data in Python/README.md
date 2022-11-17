@@ -24,5 +24,5 @@ It's commonly said that data scientists spend 80% of their time cleaning and man
 - Joining Data with Pandas
 ## Catelog
 - Credits DataCamp
-- [Certificate]("https://www.datacamp.com/statement-of-accomplishment/course/34d691f26b0ceedd8f7ec4770cc5a7fee79eb823")
+[Certificate]("https://www.datacamp.com/statement-of-accomplishment/course/34d691f26b0ceedd8f7ec4770cc5a7fee79eb823")
 
