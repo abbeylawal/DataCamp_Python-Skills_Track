@@ -3,13 +3,13 @@ It's commonly said that data scientists spend 80% of their time cleaning and man
 
 ## course entries
 
-- 1. Common data problems
+1. Common data problems
 
-- 2. Text and categorical data problems
+2. Text and categorical data problems
 
-- 3. Advanced data problems
+3. Advanced data problems
 
-- 4. Record linkage
+4. Record linkage
 
 ## Datasets
 
