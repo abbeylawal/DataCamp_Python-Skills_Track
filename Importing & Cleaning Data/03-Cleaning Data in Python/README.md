@@ -18,10 +18,11 @@ It's commonly said that data scientists spend 80% of their time cleaning and man
 [Banking Dataset]
 [Restaurants Dataset]
 [Restaurants Dataset II]
-
+[dataset link]("Dataset/")
 ## Prerequisites
 - Python Data Science Toolbox (part 2)
 - Joining Data with Pandas
 ## Catelog
 - Credits DataCamp
+- [Certificate]("https://www.datacamp.com/statement-of-accomplishment/course/34d691f26b0ceedd8f7ec4770cc5a7fee79eb823")
 
